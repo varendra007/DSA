@@ -1,0 +1,9 @@
+{
+	"files.associations": {
+		"queue": "cpp",
+		"stack": "cpp",
+		"vector": "cpp",
+		"random": "cpp"
+	},
+	"python.formatting.provider": "yapf"
+}
