@@ -1,0 +1,7 @@
+{
+	"C_Cpp.errorSquiggles": "Enabled",
+	"files.associations": {
+		"xlocale": "c",
+		"unordered_set": "cpp"
+	}
+}
